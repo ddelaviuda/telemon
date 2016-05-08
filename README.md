@@ -10,3 +10,9 @@ Sistema de medida y monitorización de energía eléctrica
 **Sensor de corriente**
 
 **Fuente de alimentación**
+
+**Infraestructura de red local**
+
+**Servidor remoto**
+
+**Infraestructura de red remota**
