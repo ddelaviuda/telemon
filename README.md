@@ -8,3 +8,5 @@ Sistema de medida y monitorización de energía eléctrica
 **Raspberry Pi A**
 
 **Sensor de corriente**
+
+**Fuente de alimentación**
