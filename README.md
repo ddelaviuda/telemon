@@ -1,7 +1,7 @@
-# telemon
+# Telemon
 Sistema de medida y monitorización de energía eléctrica
 
-#Componentes hardware
+# Componentes hardware
 
 **Arduino UNO (atmega328p)**
 
