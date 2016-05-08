@@ -6,3 +6,5 @@ Sistema de medida y monitorización de energía eléctrica
 **Arduino UNO (atmega328p)**
 
 **Raspberry Pi A**
+
+**Sensor de corriente**
