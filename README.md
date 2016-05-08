@@ -1,8 +1,8 @@
 # telemon
 Sistema de medida y monitorización de energía eléctrica
 
-**Componentes hardware**
+#Componentes hardware
 
-Arduino UNO (atmega328p)
+**Arduino UNO (atmega328p)**
 
-Raspberry Pi A
+**Raspberry Pi A**
